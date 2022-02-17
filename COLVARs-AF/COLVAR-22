@@ -1,0 +1,10 @@
+#! FIELDS time d1 d3 d6 d7 chi1 chi2 sort.1 t3 t4
+#! SET min_chi1 -pi
+#! SET max_chi1 pi
+#! SET min_chi2 -pi
+#! SET max_chi2 pi
+#! SET min_t3 -pi
+#! SET max_t3 pi
+#! SET min_t4 -pi
+#! SET max_t4 pi
+ 0.000000 1.291799 0.302571 0.797421 0.596091 -1.037393 -1.524303 0.596091 1.125684 -1.583635
