@@ -30,4 +30,6 @@ use_templates=False
 
 **Ring flipping kinetics for Tyrosine**
 
+Using `\chi_1` and `\chi_2` angle of Tyrosine as CV
+
 ![tyrmeta](/Tyr-ring-flip/plot_error_tyr.png)
