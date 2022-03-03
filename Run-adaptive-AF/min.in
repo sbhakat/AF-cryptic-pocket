@@ -1,0 +1,11 @@
+Minimization with Cartesian restraints for the solute
+&cntrl
+imin=1, maxcyc=200,
+ntpr=5,
+ntr=1,
+&end
+Group input for restrained atoms
+100.0
+RES 1 331
+END
+END 
