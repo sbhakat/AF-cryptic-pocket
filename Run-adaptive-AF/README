@@ -1,1 +1,4 @@
 Files needed to launch MD simulations starting from AF structures
+Gromacs 2021 patched with Plumed 2.7.0
+Acpype
+Ambertools
