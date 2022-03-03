@@ -1,0 +1,8 @@
+p=$1
+q=$2
+shift
+shift
+for a in $*
+do
+  sed "s/${p}/${q}/g" $a >tmp; mv -f tmp $a
+done
