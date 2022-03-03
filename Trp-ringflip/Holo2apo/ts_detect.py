@@ -5,8 +5,7 @@ import numpy as np
 cvfile=pd.read_csv("edt_COLVAR", sep=" ",skipinitialspace=True)
 numrow=cvfile.shape[0]
 n=0
-for i in range(0,numrow):
-         #if (cvfile['c2_35'][i]< -0.09 and cvfile['c2_35'][i] > -1.90 and cvfile['c1_35'][i] > 0) or (cvfile['c2_35'][i]< 2.30 and cvfile['c2_35'][i] > 0.7 and cvfile['c1_35'][i] > -1.70  and cvfile['c1_35'][i] < -0.33) or (cvfile['c2_35'][i]< -0.85 and cvfile['c2_35'][i] > -2.77 and cvfile['c1_35'][i] < 0):
+for i in range(0,numrow):   
          if (cvfile['t4'][i] < -1.1 and cvfile['t3'][i] > 0.5 and cvfile['t3'][i] < 1.8):
                   n=n+1
                   if n == 2:
