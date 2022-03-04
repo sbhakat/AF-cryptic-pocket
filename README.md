@@ -33,3 +33,7 @@ use_templates=False
 Using `\chi_1` and `\chi_2` angle of Tyrosine as CV
 
 ![tyrmeta](/Tyr-ring-flip/plot_error_tyr.png)
+
+using TIC1 and TIC2 as CVs
+
+![tyrmetatica](Tyr-ring-flip/TICA/plot_error_tyr.png)
