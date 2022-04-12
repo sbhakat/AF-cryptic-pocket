@@ -1,5 +1,5 @@
 # In case you want to start amber way of setting minimization
-for i in {8,9,14,23,26,27,28,30,31}; do
+for i in {1..32}; do
 cp min.in Model-${i}
 cp full-min.in Model-${i}
 cd Model-${i}
