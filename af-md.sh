@@ -4,6 +4,7 @@ mkdir Model-${i}
 cp AF-structures/prot${i}.pdb Model-${i}/prot.pdb
 cd Model-${i}
 cp ../tleap.all .
+cp ../subst .
 subst 'CYS A  49' 'CYX A  49' prot.pdb 
 subst 'CYS A  54' 'CYX A  54' prot.pdb
 subst 'CYS A 251' 'CYX A 251' prot.pdb 
