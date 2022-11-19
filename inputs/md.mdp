@@ -1,7 +1,7 @@
 title                   = MD simulation 
 ; Run parameters
 integrator              = md        ; leap-frog integrator
-nsteps                  = 250000000    ; 500ns
+nsteps                  = 50000000    ; 100ns
 dt                      = 0.002     ; 2 fs
 ; Output control
 nstxout                 = 0         ; suppress bulky .trr file by specifying 
