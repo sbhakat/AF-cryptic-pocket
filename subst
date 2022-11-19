@@ -1,3 +1,4 @@
+#!/bin/bash
 p=$1
 q=$2
 shift
