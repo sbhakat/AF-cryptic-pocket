@@ -1,4 +1,4 @@
-# AF-ring-flipping
+# Accelerating cryptic pocket discovery using AlphaFold
 
 **Conformational generation using Google Colabfold**
 
