@@ -26,5 +26,4 @@ tol=0
 is_training=True
 use_templates=False
 ```
-![error](/predicted_LDDT.png)
-
+In order to launch MD simulations from AlphaFold generated structures you need to install ```Ambertools2022```, 
