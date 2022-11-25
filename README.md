@@ -32,5 +32,11 @@ In order to launch MD simulations from AlphaFold generated structures you need t
 
 Projection of AlphaFold-generated structures (black dots) on reweighted free energy surface along χ1 and χ2 angles of Trp41 reveal that AlphaFold primarily generates structures in low-energy basins. Path along minimum free energy pathway between open and closed basin is calculated using string method and highlighted in blue line. Metadynamics simulations were performed using χ1 and χ2 angles of Trp41 as CVs starting from unliganded holo PM II (PDB: 2BJU). 
 
-![error](/fes-af.png)
+![fig1](/fes-af.png)
+
+**AlphaFold seeded vs apo seeded**
+
+MSM-derived free energy landscape projected along χ1 and χ2 angles of Trp41 for AlphaFold seeded (A) and apo seeded (B) molecular dynamics simulations (32 microsecond in each case).
+
+![fig1](/msm-trp-mod-fes.png)
 
