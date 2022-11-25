@@ -1,5 +1,9 @@
 # Accelerating cryptic pocket discovery using AlphaFold
 
+**Graphical Abstract**
+
+![ga](/af-paper.png)
+
 **Conformational generation using Google Colabfold**
 
 ```
@@ -38,5 +42,5 @@ Projection of AlphaFold-generated structures (black dots) on reweighted free ene
 
 MSM-derived free energy landscape projected along χ1 and χ2 angles of Trp41 for AlphaFold seeded (A) and apo seeded (B) molecular dynamics simulations (32 microsecond in each case).
 
-![fig1](/msm-trp-mod-fes.png)
+![fig2](/msm-trp-mod-fes.png)
 
