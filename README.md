@@ -30,7 +30,7 @@ tol=0
 is_training=True
 use_templates=False
 ```
-In order to launch MD simulations from AlphaFold generated structures you need to install ```Ambertools2022```, ```Gromacs 2021``` patched with ```Plumed 2.7```
+In order to launch MD simulations from AlphaFold generated structures you need to install ```Ambertools2022```, ```Gromacs 2021``` patched with ```Plumed 2.7```. Features were generated using ```MSMBuilder 3.8``` and Markov State Model was generated using ```PyEMMA 2.5```
 
 **Sampling of cryptic pocket by AlphaFold**:
 
